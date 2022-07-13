@@ -14,7 +14,7 @@ const App = () => {
         {
             id: '2',
             title: 'Estudar Inglês',
-            completed: true,
+            completed: false,
         }
     ])
 
